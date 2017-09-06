@@ -2,9 +2,9 @@
 
 Windows based application to generate a Visio diagram to convert Control-M XML data into a full Visio flow diagram.
 
-Features:
--Support for Control-M Version 7, 8, and 9
--Configurable diagram attributes
+Features:<br>
+-Support for Control-M Version 7, 8, and 9<br>
+-Configurable diagram attributes<br>
 
-Prerequisites:
--Visio 2010, or later must be installed.
+Prerequisites:<br>
+-Visio 2010, or later must be installed.<br>
